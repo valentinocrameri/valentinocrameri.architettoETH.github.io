@@ -1,0 +1,35 @@
+body{
+background: #F8F8FF; /*GhostWhite*/
+}
+header{
+	font-size: 20px;
+	font-family: verdana;
+	margin: 100px;
+	margin-bottom: 20px;
+}
+h2{
+	font-size: 20px;
+	font-family: verdana;
+	font-weight: normal;
+}
+section{
+	font-size: 15px;
+	font-family: verdana;
+	margin: 80px;
+}
+h3{
+	font-size: 15px;
+	font-family: verdana;
+	margin-top: 100px;
+	margin-bottom: 25px;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+footer{
+	font-size: 12px;
+	font-family: verdana;
+	margin-top: 100px;
+	text-decoration: 
+}
